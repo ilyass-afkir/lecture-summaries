@@ -3,4 +3,4 @@ Summaries and Notes of the most important Machine Learning lectures (I took/I am
 - **Robot Learning** (passed)
 - **Statistical Machine Learning** (ongoing)
 - **Computer Vision 1** (ongoing)
-- **Reinforcement Learning: From foundations to deep approaches** (ongoing)
+- **Reinforcement Learning** (ongoing)
