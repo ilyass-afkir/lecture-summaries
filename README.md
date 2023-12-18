@@ -1,5 +1,5 @@
 # About
-This repo contains the most important Machine Learning lectures (I took/am taking) at TU Darmstadt (@tudace), including:
+This repo contains the most important Machine Learning lectures (I took/am taking) at TU Darmstadt, encompassing:
 - **Robot Learning** (passed)
 - **Statistical Machine Learning** (ongoing)
 - **Computer Vision 1** (ongoing)
