@@ -1,3 +1,6 @@
-# Lecture-Summaries: Computer Vision 1 and Reinforcement Learning
-So far I have written 2 summaries of the lectures Reinforcement Learning and Computer Vision 1 @TUDarmstadt. I still need to imporve some details but 
-this might be helpful for you. I am working currently on Statistical Machine Learning  as well as Deep Learning Architecutes and Methods.
+# About
+This repo contains the most important Machine Learning lectures (I took/am taking) @TUDarmstadt, including:
+- **Robot Learning** (passed): Taught by Prof. Jan Peters
+- **Statistical Machine Learning** (ongoing): Taught by Prof. Jan Peters
+- **Computer Vision 1** (ongoing): Taught by Prof. Stefan Roth
+- **Reinforcement Learning: From foundations to deep approaches** (ongoing): Taught by Prof. Jan Peters
