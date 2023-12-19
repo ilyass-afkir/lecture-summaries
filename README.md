@@ -4,3 +4,4 @@ Summaries and Notes of the most important AI lectures (I took/I am taking) at TU
 - **Statistical Machine Learning** (ongoing)
 - **Computer Vision 1** (ongoing)
 - **Reinforcement Learning** (ongoing)
+  
