@@ -1,7 +1,6 @@
 # About
-Summaries and Notes of the most important AI lectures (I took/I am taking) at TU Darmstadt, encompassing:
-- **Robot Learning** (passed)
-- **Statistical Machine Learning** (ongoing)
-- **Computer Vision 1** (ongoing)
-- **Reinforcement Learning** (ongoing)
-  
+Summaries/Notes of the most important AI lectures I took at TU Darmstadt, encompassing:
+- **Robot Learning** 
+- **Statistical Machine Learning** 
+- **Computer Vision 1** 
+- **Reinforcement Learning** 
