@@ -1,5 +1,5 @@
 # Lecture Summaries
-My summaries/notes of the most important AI lectures I took so far as a Mechanical Engineering student at TU Darmstadt, encompassing:
+My summaries/notes of the most important AI lectures I took/I am currently taking as a Mechanical Engineering student at TU Darmstadt, encompassing:
 - **Robot Learning**
   - ToDo: Add notes for the remaining chapters + Write a text using these notes
 - **Statistical Machine Learning**
