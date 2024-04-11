@@ -1,13 +1,11 @@
 # Lecture Summaries
 My summaries/notes of the most important AI lectures I took/I am currently taking as a Mechanical Engineering student at TU Darmstadt, encompassing:
 - **Robot Learning**
-  - ToDo: Add notes for the remaining chapters + Write a text using these notes
+  - ToDo: Copy & paste Notes to the word file for the remaining chapters
 - **Statistical Machine Learning**
-  - ToDo: Learn/complete remaining Chapters
-- **Computer Vision 1**
-  - ToDo: Proof read summary and look for missing stuff  
-- **Reinforcement Learning**
-  - ToDo: Proof read summary and look for missing stuff  
+  - ToDo: Complete remaining Chapters
+- **Computer Vision 1** (Done)
+- **Reinforcement Learning** (Done) 
 - **Continual Machine Learning** (Done)
 
 
