@@ -1,4 +1,4 @@
-# 📚 AI Lecture Summaries – TU Darmstadt
+# 📚 Lecture Summaries – TU Darmstadt
 
 This repository contains my personal summaries and notes from the most important Artificial Intelligence (AI) lectures I have taken as a master student at the Technical University of Darmstadt. These notes are meant to provide a concise and structured overview of key AI topics and are actively maintained.
 
