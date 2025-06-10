@@ -1,6 +1,6 @@
 # 📚 AI Lecture Summaries – TU Darmstadt
 
-This repository contains my personal summaries and notes from the most important Artificial Intelligence (AI) lectures I have taken (or am currently taking) as a Mechanical Engineering student at the Technical University of Darmstadt. These notes are meant to provide a concise and structured overview of key AI topics and are actively maintained.
+This repository contains my personal summaries and notes from the most important Artificial Intelligence (AI) lectures I have taken as a master student at the Technical University of Darmstadt. These notes are meant to provide a concise and structured overview of key AI topics and are actively maintained.
 
 ## 📘 Contents
 
@@ -8,12 +8,13 @@ This repository contains my personal summaries and notes from the most important
 - **Computer Vision 1**  
 - **Reinforcement Learning**  
 - **Continual Machine Learning**
+- **Robot Learning**
+- **Statistical Machine Learning**  
+  
 
 ### 🛠 In Progress
-- **Robot Learning**  
-  - ToDo: Copy remaining chapter notes into summary document
-- **Statistical Machine Learning**  
-  - ToDo: Complete summaries for remaining chapters
+- **Algorithms and Data strucutures**  
+- **Deep Learning for NLP**  
 
 ## 🧠 Topics Covered
 - Supervised and Unsupervised Learning  
