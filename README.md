@@ -11,11 +11,6 @@ This repository contains my personal summaries and notes from the most important
 - **Robot Learning**
 - **Statistical Machine Learning**  
   
-
-### 🛠 In Progress
-- **Algorithms and Data strucutures**  
-- **Deep Learning for NLP**  
-
 ## 🧠 Topics Covered
 - Supervised and Unsupervised Learning  
 - Probabilistic Models  
