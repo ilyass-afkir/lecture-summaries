@@ -27,8 +27,6 @@ Each lecture/course is organized in its own folder or document, containing:
 - Diagrams and figures (if applicable)
 - Key equations and concepts
 
-## 📜 License
-This work is shared for educational and non-commercial purposes. Attribution is appreciated. Please check each folder for any course-specific licensing or attribution requirements.
 
 ## 🙋‍♂️ Who is this for?
 - Students looking to revise core AI concepts  
