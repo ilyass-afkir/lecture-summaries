@@ -11,7 +11,7 @@ This repository contains my personal summaries and notes from the most important
 - **Robot Learning**
 - **Statistical Machine Learning**  
   
-## 🧠 Topics Covered
+### 🧠 Topics Covered
 - Supervised and Unsupervised Learning  
 - Probabilistic Models  
 - Deep Learning for Vision  
@@ -20,12 +20,6 @@ This repository contains my personal summaries and notes from the most important
 - Policy Gradients, Q-Learning, Actor-Critic methods  
 - Bayesian and Frequentist learning perspectives  
 - Robot perception and control
-
-## 📂 Structure
-Each lecture/course is organized in its own folder or document, containing:
-- Chapter-wise notes
-- Diagrams and figures (if applicable)
-- Key equations and concepts
 
 
 ## 🙋‍♂️ Who is this for?
